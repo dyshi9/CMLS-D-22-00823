@@ -1,0 +1,281 @@
+TARGET USI	Gender	Race	Ethnicity	Age_at_diagnosis 	First_Event	Event_free_survival_time	Metastasis_at_diagnosis	Histologic response	OS.Status	OS.Time	RFS.Status	RFS.Time
+TARGET-40-NAAEDI	Female	White 	Not Hispanic or Latino	16	Relapse 	274	No	Stage 1/2	1	361	1	274
+TARGET-40-NAAFJN	Female	White	Not Hispanic or Latino	17	Relapse	431	No	Stage 3/4	1	1225	1	431
+TARGET-40-NAAFJP	Female	White	Not Hispanic or Latino	17	Relapse	2675	No	Stage 3/4	0	2714	1	2675
+TARGET-40-NAAFJT	Female	Asian	Not Hispanic or Latino	20	Relapse	1370	No	Stage 1/2	0	1378	1	1370
+TARGET-40-NAAFJV	Female	White	Not Hispanic or Latino	22	Presented With Mets	0	Yes	NA	1	103	0	0
+TARGET-40-NAAGJP	Female	Asian	NA	30	Censored	3272	No	Stage 1/2	0	3443	NA	NA
+TARGET-40-NAAGJW	Female	Asian	NA	11	Censored	1594	No	Stage 3/4	0	1965	NA	NA
+TARGET-40-NAAGKA	Female	Asian	NA	12	Censored	5302	No	Stage 1/2	0	5302	NA	NA
+TARGET-40-NAAGKD	Female	Asian	NA	19	Death	1755	No	Stage 1/2	1	2022	1	1755
+TARGET-40-NAAGKG	Female	Asian	NA	18	Censored	4113	No	Stage 1/2	0	4113	NA	NA
+TARGET-40-NAAGKK	Female	Asian	NA	17	Death	1602	No	Stage 1/2	1	2641	1	1602
+TARGET-40-NAAGZX	Female	Black or African American	Not Hispanic or Latino	8	None	None	No	Stage 3/4	0	1913	0	1913
+TARGET-40-NAAHBH	Female	White	Not Hispanic or Latino	17	Censored	NA	No	Stage 1/2	0	3885	NA	NA
+TARGET-40-NAAHBI	Female	White	Not Hispanic or Latino	12	Relapse	565	Yes	Stage 1/2	1	2984	1	565
+TARGET-40-NAAHBJ	Female	White	Hispanic or Latino	18	Censored	NA	No	Stage 3/4	0	5096	NA	NA
+TARGET-40-NAAHBM	Female	White	Not Hispanic or Latino	14	Relapse	483	Yes	Stage 1/2	0	1132	1	483
+TARGET-40-NAAHBN	Female	White	Not Hispanic or Latino	13	Censored	NA	No	Stage 1/2	0	2806	NA	NA
+TARGET-40-NAAHBR	Female	White	Not Hispanic or Latino	14	Relapse	207	No	Stage 1/2	1	536	1	207
+TARGET-40-NAAHBW	Female	White	Not Hispanic or Latino	14	Relapse	328	No	Stage 3/4	1	464	1	328
+TARGET-40-NAAHBY	Female	NA	NA	15	Relapse	284	No	Stage 1/2	1	851	1	284
+TARGET-40-NAAHCD	Female	NA	NA	15	Relapse	167	No	NA	1	199	1	167
+TARGET-40-NAAHCI	Female	NA	NA	12	Censored	NA	Yes	Stage 3/4	0	437	NA	NA
+TARGET-40-NAAHCK	Female	NA	NA	14	Censored	NA	No	Stage 1/2	0	365	NA	NA
+TARGET-40-NAAHCN	Female	NA	NA	17	Censored	NA	No	Stage 1/2	0	92	NA	NA
+TARGET-40-NAAHCR	Female	White	Hispanic or Latino	15	Censored	NA	No	Stage 1/2	0	682	NA	NA
+TARGET-40-NAAHCX	Female	White	Not Hispanic or Latino	12	Censored	NA	No	NA	0	3033	NA	NA
+TARGET-40-NAAHDA	Female	White	Hispanic or Latino	15	Relapse	855	No	Stage 1/2	1	1242	1	855
+TARGET-40-NAAHDC	Female	White	Hispanic or Latino	12	Relapse	548	No	Stage 1/2	1	941	1	548
+TARGET-40-NAAHDD	Female	Black or African American	Not Hispanic or Latino	9	Censored	NA	No	NA	0	2501	NA	NA
+TARGET-40-NAAHDE	Female	White	Hispanic or Latino	11	Relapse	717	No	Stage 3/4	0	2439	1	717
+TARGET-40-NAAHDF	Female	White	Not Hispanic or Latino	9	Relapse	901	No	Stage 1/2	0	2185	1	901
+TARGET-40-NAAHDK	Female	White	Hispanic or Latino	12	Relapse	734	Yes	Stage 1/2	0	1649	1	734
+TARGET-40-NAAHDN	Female	White	Not Hispanic or Latino	6	Censored	NA	No	Stage 1/2	0	1263	NA	NA
+TARGET-40-NAAIBU	Female	Asian	NA	7	Censored	426	No	Stage 3/4	0	675	NA	NA
+TARGET-40-NAAIBW	Female	Asian	NA	8	Censored	43	No	Stage 3/4	0	268	NA	NA
+TARGET-40-NAAVMK	Female	White	NA	34	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWDT	Female	NA	NA	26	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWDZ	Female	White	NA	20	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWEH	Female	White	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWEW	Female	White	NA	18	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWEY	Female	White	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWEZ	Female	White	NA	19	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWFT	Female	White	NA	28	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWGG	Female	Black or African American	NA	12	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWGR	Female	White	NA	14	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWHG	Female	Black or African American	NA	18	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWHH	Female	White	NA	29	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-PAIXFY	Female	NA	NA	17	Relapse	470	Yes	NA	1	812	1	470
+TARGET-40-PAKGVJ	Female	Black or African American	Not Hispanic or Latino	13	None	2758	No	NA	0	2758	0	2758
+TARGET-40-PAKXLD	Female	White	Not Hispanic or Latino	14	Relapse	578	No	NA	0	2462	1	578
+TARGET-40-PALECC	Female	NA	Hispanic or Latino	10	Relapse	384	No	NA	1	754	1	384
+TARGET-40-PALFYN	Female	White	NA	13	Relapse	651	No	NA	1	1003	1	651
+TARGET-40-PALKDP	Female	White	Not Hispanic or Latino	9	None	3282	No	NA	0	3282	0	3282
+TARGET-40-PALPAX	Female	White	Hispanic or Latino	16	Relapse	292	Yes	NA	1	1037	1	292
+TARGET-40-PALTJB	Female	Native Hawaiian or other Pacific Islander	Not Hispanic or Latino	15	None	0	Yes	NA	0	0	0	0
+TARGET-40-PALWWX	Female	White	Not Hispanic or Latino	12	Censored	2163	Yes	NA	0	2163	NA	NA
+TARGET-40-PAMCVZ	Female	White	Not Hispanic or Latino	18	Death	809	Yes	NA	1	809	NA	NA
+TARGET-40-PAMHYN	Female	Asian	Not Hispanic or Latino	10	None	3900	No	NA	0	3900	0	3900
+TARGET-40-PAMLKS	Female	White	Not Hispanic or Latino	12	Relapse	71	Yes	NA	1	180	1	71
+TARGET-40-PAMRHD	Female	NA	Not Hispanic or Latino	11	Relapse	39	Yes	NA	1	74	1	39
+TARGET-40-PAMTCM	Female	Black or African American	Not Hispanic or Latino	14	None	3002	No	NA	0	3002	0	3002
+TARGET-40-PAMZAA	Female	White	Not Hispanic or Latino	11	Relapse	493	Yes	NA	1	752	1	493
+TARGET-40-PANCFH	Female	White	Not Hispanic or Latino	8	None	0	No	NA	0	0	0	0
+TARGET-40-PANDMD	Female	White	Not Hispanic or Latino	16	Relapse	542	No	NA	1	1088	1	542
+TARGET-40-PANFZN	Female	White	Not Hispanic or Latino	16	None	1254	Yes	NA	0	1254	0	1254
+TARGET-40-PANSAN	Female	White	Not Hispanic or Latino	11	None	2131	Yes	NA	0	2131	0	2131
+TARGET-40-PANVJJ	Female	White	NA	14	None	3095	No	NA	0	3095	0	3095
+TARGET-40-PANZHX	Female	Asian	Not Hispanic or Latino	14	Relapse	812	Yes	NA	0	1323	1	812
+TARGET-40-PAPIJR	Female	White	Hispanic or Latino	13	None	1719	No	Stage 1/2	0	1719	0	1719
+TARGET-40-PAPKME	Female	White	Not Hispanic or Latino	15	None	2915	No	Stage 1/2	0	2915	0	2915
+TARGET-40-PAPNVD	Female	White	Hispanic or Latino	14	Relapse	594	No	Stage 1/2	1	922	1	594
+TARGET-40-PAPWWC	Female	White	Not Hispanic or Latino	10	Relapse	1933	No	Stage 1/2	0	2520	1	1933
+TARGET-40-PAPXGT	Female	Black or African American	Not Hispanic or Latino	11	None	2526	No	Stage 1/2	0	2526	0	2526
+TARGET-40-PAPXWB	Female	White	Hispanic or Latino	15	Relapse	2201	No	Stage 3/4	0	2777	1	2201
+TARGET-40-PARBGW	Female	NA	Hispanic or Latino	13	None	286	Yes	Stage 1/2	0	286	0	286
+TARGET-40-PARFTG	Female	Asian	Not Hispanic or Latino	14	Relapse	53	No	Stage 1/2	1	653	1	53
+TARGET-40-PARJXU	Female	White	Not Hispanic or Latino	13	Relapse	811	Yes	Stage 3/4	1	1631	1	811
+TARGET-40-PARKBJ	Female	White	Not Hispanic or Latino	8	None	2462	No	Stage 1/2	0	2462	0	2462
+TARGET-40-PARRXH	Female	White	Not Hispanic or Latino	21	Relapse	115	No	NA	1	371	1	115
+TARGET-40-PARVXK	Female	White	Hispanic or Latino	5	Relapse	70	No	NA	0	70	1	70
+TARGET-40-PARXNJ	Female	Black or African American	Not Hispanic or Latino	17	None	2215	No	Stage 3/4	0	2215	0	2215
+TARGET-40-PASEHK	Female	Black or African American	Not Hispanic or Latino	16	Relapse	1330	No	Stage 1/2	0	1791	1	1330
+TARGET-40-PASFCV	Female	White	Not Hispanic or Latino	11	None	2062	No	Stage 1/2	0	2062	0	2062
+TARGET-40-PASKZZ	Female	White	Hispanic or Latino	13	None	542	No	Stage 3/4	0	542	0	542
+TARGET-40-PASNCK	Female	White	Not Hispanic or Latino	14	Second Malignant Neoplasm	455	No	Stage 1/2	1	953	1	836
+TARGET-40-PASRNE	Female	White	Not Hispanic or Latino	4	Relapse	512	No	NA	0	1707	1	512
+TARGET-40-PASUUH	Female	White	Not Hispanic or Latino	14	None	1625	No	Stage 3/4	0	1625	0	1625
+TARGET-40-PASYUK	Female	NA	Hispanic or Latino	16	None	1870	No	Stage 3/4	0	1870	0	1870
+TARGET-40-PATEAN	Female	White	Hispanic or Latino	15	Relapse	315	Yes	Stage 3/4	1	630	1	315
+TARGET-40-PATLGY	Female	White	Not Hispanic or Latino	10	Relapse	977	No	Stage 1/2	0	1122	1	977
+TARGET-40-PATMIF	Female	White	Not Hispanic or Latino	12	None	1580	No	Stage 3/4	0	1580	0	1580
+TARGET-40-PATMXR	Female	NA	Hispanic or Latino	21	Relapse	68	Yes	NA	1	386	1	68
+TARGET-40-PATNZB	Female	White	Not Hispanic or Latino	15	Relapse	287	No	Stage 1/2	1	1203	1	287
+TARGET-40-PATUXZ	Female	NA	Hispanic or Latino	17	Death	510	Yes	NA	1	510	NA	NA
+TARGET-40-PATXFN	Female	White	Hispanic or Latino	14	None	1363	No	Stage 3/4	0	1363	0	1363
+TARGET-40-PAUBIT	Female	White	Not Hispanic or Latino	12	None	1029	No	NA	0	1029	0	1029
+TARGET-40-PAUHGA	Female	White	Not Hispanic or Latino	14	Death	374	Yes	NA	1	374	NA	NA
+TARGET-40-PAUJZR	Female	Black or African American	Not Hispanic or Latino	8	None	853	No	NA	0	853	0	853
+TARGET-40-PAUKXW	Female	White	Not Hispanic or Latino	16	None	819	No	NA	0	819	0	819
+TARGET-40-PAUTYB	Female	White	Hispanic or Latino	12	Relapse	527	No	NA	1	537	1	527
+TARGET-40-PAUVUL	Female	Black or African American	Not Hispanic or Latino	6	Relapse	237	Yes	NA	1	347	1	237
+TARGET-40-PAUXPZ	Female	NA	NA	12	Relapse	419	Yes	NA	1	606	1	419
+TARGET-40-PAUYTT	Female	White	Not Hispanic or Latino	18	None	579	No	NA	0	579	0	579
+TARGET-40-PAVCHD	Female	White	Not Hispanic or Latino	18	None	372	Yes	NA	0	372	0	372
+TARGET-40-PAVCLP	Female	Black or African American	Not Hispanic or Latino	11	None	511	No	NA	0	511	0	511
+TARGET-40-PAVDSN	Female	White	Not Hispanic or Latino	14	Relapse	424	Yes	NA	1	466	1	424
+TARGET-40-PAVDYY	Female	White	Not Hispanic or Latino	16	None	480	No	NA	0	480	0	480
+TARGET-40-PAVECB	Female	White	Not Hispanic or Latino	9	None	476	No	NA	0	476	0	476
+TARGET-40-PAVFYF	Female	NA	Not Hispanic or Latino	11	Relapse	421	No	NA	0	439	1	421
+TARGET-40-PAVHJH	Female	White	Not Hispanic or Latino	13	None	411	No	NA	0	411	0	411
+TARGET-40-PAVLIB	Female	White	Not Hispanic or Latino	13	None	328	No	NA	0	328	0	328
+TARGET-40-PAVMEM	Female	White	Not Hispanic or Latino	9	None	306	No	NA	0	306	0	306
+TARGET-40-PAVRYF	Female	NA	Hispanic or Latino	12	None	239	No	NA	0	239	0	239
+TARGET-40-PAVTME	Female	NA	Hispanic or Latino	15	None	208	No	NA	0	208	0	208
+TARGET-40-PAVVZE	Female	Asian	Not Hispanic or Latino	7	NA	NA	No	NA	NA	NA	NA	NA
+TARGET-40-0A4I0Q	Female 	NA	NA	20	Death	519	Yes	Stage 1/2	1	519	NA	NA
+TARGET-40-0A4I0U	Female 	White	NA	40	Censored	2216	No	Stage 1/2	0	2216	NA	NA
+TARGET-40-0A4I42	Female 	NA	NA	17	Relapse	351	No	NA	1	619	1	351
+TARGET-40-0A4I48	Female 	NA	NA	16	Censored	1616	Yes	Stage 3/4	0	1616	NA	NA
+TARGET-40-0A4I4A	Female 	White	NA	21	Censored	1583	No	Stage 1/2	0	1583	NA	NA
+TARGET-40-0A4I4M	Female 	Asian	NA	19	Censored	708	No	Stage 3/4	0	708	NA	NA
+TARGET-40-0A4I8Q	Female 	NA	NA	36	Relapse	1896	No	NA	0	1959	1	1896
+TARGET-40-0A4HXO	Male	NA	NA	25	Censored	2983	No	Stage 3/4	0	2983	NA	NA
+TARGET-40-0A4HXV	Male	NA	NA	19	Relapse	596	No	Stage 1/2	1	1627	1	596
+TARGET-40-0A4I3W	Male	American Indian or Alaska Native	NA	19	Relapse	428	No	Stage 1/2	1	1637	1	428
+TARGET-40-0A4I65	Male	NA	NA	18	Relapse	1993	No	Stage 1/2	0	5840	1	1993
+TARGET-40-0A4I8O	Male	NA	NA	17	Relapse	400	Yes	Stage 1/2	1	909	1	400
+TARGET-40-0A4I8S	Male	NA	NA	15	Relapse	315	No	Stage 1/2	1	788	1	315
+TARGET-40-0A4I9K	Male	NA	NA	23	NA	2257	No	Stage 1/2	0	2257	NA	NA
+TARGET-40-NAAECZ	Male	White 	Not Hispanic or Latino	20	Death without Remission	449	Yes	Stage 1/2	1	449	NA	NA
+TARGET-40-NAAEDA	Male	Black or African American	Not Hispanic or Latino	9	Relapse 	359	Yes	Stage 1/2	1	503	1	373
+TARGET-40-NAAEDB	Male	Black or African American	Not Hispanic or Latino	29	Relapse 	576	No	Stage 1/2	1	1249	1	570
+TARGET-40-NAAEDD	Male	Black or African American	Not Hispanic or Latino	14	Progression	167	No	Stage 1/2	1	378	1	154
+TARGET-40-NAAEDG	Male	White 	Not Hispanic or Latino	25	Relapse 	588	Yes	Stage 3/4	1	877	1	840
+TARGET-40-NAAEDH	Male	White 	Not Hispanic or Latino	18	Relapse 	360	No	Stage 1/2	1	1023	1	360
+TARGET-40-NAAFJK	Male	White	Not Hispanic or Latino	15	Relapse	713	No	Stage 3/4	0	3782	1	713
+TARGET-40-NAAFJL	Male	White	Not Hispanic or Latino	17	Presented With Mets	0	Yes	NA	1	246	NA	NA
+TARGET-40-NAAFJM	Male	American Indian or Alaska Native	Not Hispanic or Latino	17	Presented With Mets	0	Yes	Stage 1/2	1	455	NA	NA
+TARGET-40-NAAFJR	Male	American Indian or Alaska Native	Not Hispanic or Latino	19	Relapse	380	No	Stage 1/2	1	606	1	380
+TARGET-40-NAAFJS	Male	White	Not Hispanic or Latino	20	NA	NA	No	Stage 3/4	0	5049	NA	NA
+TARGET-40-NAAFJW	Male	NA	NA	35	NA	NA	No	Stage 1/2	NA	10	NA	NA
+TARGET-40-NAAFJX	Male	White	Not Hispanic or Latino	39	Relapse	687	No	Stage 1/2	0	2092	1	687
+TARGET-40-NAAFKF	Male	Asian	Not Hispanic or Latino	17	Relapse	149	No	Stage 1/2	1	261	1	149
+TARGET-40-NAAGJK	Male	Asian	NA	15	Censored	4631	No	Stage 1/2	0	5033	NA	NA
+TARGET-40-NAAGJM	Male	Asian	NA	6	Death	512	Yes	Stage 1/2	1	1036	1	512
+TARGET-40-NAAGJN	Male	Asian	NA	18	Death	777	No	Stage 1/2	1	3141	1	777
+TARGET-40-NAAGJR	Male	Asian	NA	8	Death	358	No	Stage 1/2	1	718	1	358
+TARGET-40-NAAGJS	Male	Asian	NA	11	Death	273	No	Stage 1/2	1	598	1	273
+TARGET-40-NAAGJT	Male	Asian	NA	21	Death	1484	No	Stage 1/2	1	2582	1	1484
+TARGET-40-NAAGJU	Male	Asian	NA	13	Death	275	No	Stage 1/2	1	368	1	275
+TARGET-40-NAAGJV	Male	Asian	NA	16	Censored	1809	No	Stage 3/4	0	2105	NA	NA
+TARGET-40-NAAGJX	Male	Asian	NA	10	Death	454	Yes	Stage 1/2	1	1475	1	454
+TARGET-40-NAAGJY	Male	Asian	NA	11	Death	174	Yes	Stage 1/2	1	445	1	174
+TARGET-40-NAAGJZ	Male	Asian	NA	14	Death	180	No	Stage 1/2	1	222	1	180
+TARGET-40-NAAGKC	Male	Asian	NA	10	Censored	4770	No	Stage 3/4	0	4770	NA	NA
+TARGET-40-NAAGKF	Male	Asian	NA	24	Censored	3784	No	Stage 1/2	0	3784	NA	NA
+TARGET-40-NAAGKH	Male	Asian	NA	20	Death	293	No	Stage 1/2	1	514	1	293
+TARGET-40-NAAGKI	Male	Asian	NA	18	Censored	2825	Yes	Stage 3/4	0	3185	NA	NA
+TARGET-40-NAAGKL	Male	Asian	NA	16	Relapse	367	No	Stage 3/4	0	2111	1	367
+TARGET-40-NAAGKM	Male	Asian	NA	13	Censored	1679	No	Stage 3/4	0	1868	NA	NA
+TARGET-40-NAAGKN	Male	Asian	NA	21	Death	165	No	Stage 1/2	1	361	1	165
+TARGET-40-NAAGZY	Male	Black or African American	Not Hispanic or Latino	13	None	None	No	Stage 1/2	0	1900	0	1900
+TARGET-40-NAAGZZ	Male	White 	Not Hispanic or Latino	18	None	None	No	Stage 1/2	0	1855	0	1855
+TARGET-40-NAAHAB	Male	White 	Not Hispanic or Latino	10	Relapse 	1005	Yes	Stage 1/2	1	1520	1	573
+TARGET-40-NAAHBK	Male	Black or African American	Not Hispanic or Latino	13	Censored	NA	No	Stage 3/4	0	3367	NA	NA
+TARGET-40-NAAHBP	Male	White	Not Hispanic or Latino	13	Relapse	276	No	Stage 3/4	1	478	1	276
+TARGET-40-NAAHBS	Male	NA	NA	10	Relapse	822	Yes	Stage 3/4	1	911	1	822
+TARGET-40-NAAHBT	Male	White	Hispanic or Latino	11	Relapse	598	No	Stage 1/2	0	834	1	598
+TARGET-40-NAAHBU	Male	White	Hispanic or Latino	12	Relapse	594	No	NA	0	662	1	594
+TARGET-40-NAAHBV	Male	NA	NA	17	Second Malignant Neoplasm	213	No	NA	0	1260	NA	NA
+TARGET-40-NAAHBZ	Male	Black or African American	Not Hispanic or Latino	10	Relapse	181	No	NA	1	249	1	181
+TARGET-40-NAAHCE	Male	White	Not Hispanic or Latino	22	Relapse	1045	No	Stage 3/4	0	1785	1	1045
+TARGET-40-NAAHCF	Male	White	Hispanic or Latino	17	Death	225	Yes	Stage 1/2	1	225	NA	NA
+TARGET-40-NAAHCG	Male	White	Hispanic or Latino	18	Relapse	1150	No	Stage 1/2	0	3915	1	1150
+TARGET-40-NAAHCH	Male	NA	NA	16	Censored	NA	No	Stage 1/2	0	448	NA	NA
+TARGET-40-NAAHCJ	Male	NA	NA	14	Censored	NA	No	Stage 1/2	0	368	NA	NA
+TARGET-40-NAAHCM	Male	White	Hispanic or Latino	15	Death	542	No	Stage 1/2	1	542	NA	NA
+TARGET-40-NAAHCT	Male	Black or African American	Not Hispanic or Latino	16	Death	178	Yes	Stage 3/4	1	178	NA	NA
+TARGET-40-NAAHCU	Male	White	Hispanic or Latino	10	Relapse	739	Yes	NA	1	2482	1	739
+TARGET-40-NAAHCW	Male	White	Not Hispanic or Latino	12	Censored	NA	No	Stage 1/2	0	3417	NA	NA
+TARGET-40-NAAHCY	Male	White	Hispanic or Latino	15	Relapse	238	No	Stage 1/2	1	660	1	238
+TARGET-40-NAAHDI	Male	White	Hispanic or Latino	16	Relapse	1718	No	Stage 3/4	0	1863	1	1718
+TARGET-40-NAAHDJ	Male	White	Hispanic or Latino	4	Censored	NA	No	Stage 3/4	0	1534	NA	NA
+TARGET-40-NAAHDL	Male	White	Not Hispanic or Latino	14	Censored	NA	No	Stage 3/4	0	1097	NA	NA
+TARGET-40-NAAHDM	Male	White	Not Hispanic or Latino	9	Relapse	486	No	Stage 3/4	1	1021	1	486
+TARGET-40-NAASJI	Male	NA	NA	19	Death	388	No	NA	1	388	NA	NA
+TARGET-40-NAASJK	Male	NA	NA	15	Death	756	No	NA	1	756	NA	NA
+TARGET-40-NAAVMJ	Male	NA	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAVML	Male	White	NA	15	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWDK	Male	White	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWER	Male	White	NA	11	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWEX	Male	White	NA	12	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWGC	Male	American Indian or Alaska Native	NA	14	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWGJ	Male	White	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-NAAWGP	Male	White	NA	17	NA	NA	NA	NA	NA	NA	NA	NA
+TARGET-40-PAIWEV	Male	Black or African American	NA	17	Relapse	609	No	NA	1	750	1	609
+TARGET-40-PAKFVX	Male	NA	Not Hispanic or Latino	15	Relapse	361	No	NA	0	922	1	361
+TARGET-40-PAKRHV	Male	NA	NA	15	Relapse	774	No	NA	0	2883	1	774
+TARGET-40-PAKUZU	Male	Asian	Not Hispanic or Latino	20	None	0	No	NA	0	0	0	0
+TARGET-40-PAKZZK	Male	White	Not Hispanic or Latino	13	Relapse	452	No	NA	1	1515	1	452
+TARGET-40-PALHRL	Male	Black or African American	Not Hispanic or Latino	16	None	4374	Yes	NA	0	4374	0	4374
+TARGET-40-PALIXF	Male	White	Not Hispanic or Latino	14	None	4355	No	NA	0	4355	0	4355
+TARGET-40-PALKGN	Male	White	Not Hispanic or Latino	17	None	2122	No	NA	0	2122	0	2122
+TARGET-40-PALZGU	Male	White	Not Hispanic or Latino	15	Relapse	1452	No	NA	1	2882	1	1452
+TARGET-40-PAMEKS	Male	Asian	Not Hispanic or Latino	11	Relapse	385	Yes	NA	1	857	1	385
+TARGET-40-PAMHLF	Male	White	Not Hispanic or Latino	9	None	1913	No	NA	0	1913	0	1913
+TARGET-40-PAMJXS	Male	Black or African American	Not Hispanic or Latino	11	Relapse	3184	No	NA	1	3862	1	3184
+TARGET-40-PAMMGP	Male	White	Not Hispanic or Latino	20	None	0	No	NA	0	0	0	0
+TARGET-40-PAMPSS	Male	White	Hispanic or Latino	17	Relapse	376	No	NA	1	1004	1	376
+TARGET-40-PAMVMI	Male	American Indian or Alaska Native	Not Hispanic or Latino	17	Relapse	518	No	NA	1	989	1	518
+TARGET-40-PAMXGP	Male	White	Not Hispanic or Latino	10	Relapse	1123	Yes	NA	1	1460	1	1123
+TARGET-40-PAMYYJ	Male	White	Not Hispanic or Latino	18	Relapse	128	Yes	NA	1	271	1	128
+TARGET-40-PANBZI	Male	White	Not Hispanic or Latino	15	Relapse	735	Yes	NA	1	1465	1	735
+TARGET-40-PANGCY	Male	Black or African American	Not Hispanic or Latino	13	None	2376	Yes	NA	0	2376	0	2376
+TARGET-40-PANGPE	Male	White	Not Hispanic or Latino	13	Second Malignant Neoplasm	833	No	NA	0	3378	NA	NA
+TARGET-40-PANGRW	Male	White	Not Hispanic or Latino	17	None	3378	No	NA	0	3378	0	3378
+TARGET-40-PANIFV	Male	White	Not Hispanic or Latino	17	NA	NA	No	NA	NA	NA	NA	NA
+TARGET-40-PANMGS	Male	Black or African American	Not Hispanic or Latino	12	None	782	No	NA	0	782	0	782
+TARGET-40-PANMIG	Male	White	Not Hispanic or Latino	15	Relapse	513	Yes	NA	1	776	1	513
+TARGET-40-PANPUM	Male	White	Not Hispanic or Latino	16	Relapse	46	Yes	NA	1	295	1	46
+TARGET-40-PANSEN	Male	White	Not Hispanic or Latino	14	None	2256	No	NA	0	2256	0	2256
+TARGET-40-PANVLW	Male	Black or African American	Not Hispanic or Latino	17	None	1084	Yes	NA	0	1084	0	1084
+TARGET-40-PANXSC	Male	White	Not Hispanic or Latino	15	Relapse	366	No	NA	0	1217	1	366
+TARGET-40-PANZZJ	Male	White	Not Hispanic or Latino	19	None	1538	No	NA	0	1538	0	1538
+TARGET-40-PAPFLB	Male	White	Not Hispanic or Latino	15	NA	NA	No	NA	NA	NA	NA	NA
+TARGET-40-PAPKWD	Male	White	Not Hispanic or Latino	10	Relapse	192	No	Stage 1/2	1	422	1	192
+TARGET-40-PAPVYW	Male	Black or African American	Not Hispanic or Latino	8	Relapse	69	Yes	NA	1	78	1	69
+TARGET-40-PARDAX	Male	White	Not Hispanic or Latino	10	Relapse	105	Yes	NA	1	679	1	105
+TARGET-40-PARGNA	Male	White	Not Hispanic or Latino	11	Relapse	244	Yes	NA	1	359	1	244
+TARGET-40-PARGTM	Male	White	Not Hispanic or Latino	16	None	2610	No	Stage 3/4	0	2610	0	2610
+TARGET-40-PARKAF	Male	White	Not Hispanic or Latino	17	Relapse	56	No	Stage 1/2	1	1061	1	56
+TARGET-40-PARTUG	Male	White	Not Hispanic or Latino	13	Relapse	788	No	Stage 1/2	1	1672	1	788
+TARGET-40-PARUUW	Male	White	Not Hispanic or Latino	17	Relapse	57	Yes	NA	1	428	1	57
+TARGET-40-PARVEF	Male	Asian	Not Hispanic or Latino	18	None	2314	No	Stage 3/4	0	2314	0	2314
+TARGET-40-PARYDD	Male	White	Not Hispanic or Latino	12	Relapse	66	No	Stage 1/2	0	2150	1	66
+TARGET-40-PARZAR	Male	White	Not Hispanic or Latino	14	None	2218	No	Stage 3/4	0	2218	0	2218
+TARGET-40-PASDUJ	Male	White	Hispanic or Latino	13	None	1896	No	Stage 1/2	0	1896	0	1896
+TARGET-40-PASEBY	Male	White	Not Hispanic or Latino	12	Relapse	42	No	NA	0	2049	1	42
+TARGET-40-PASEFS	Male	White	Not Hispanic or Latino	18	None	2112	No	Stage 1/2	0	2112	0	2112
+TARGET-40-PASFFZ	Male	Black or African American	Not Hispanic or Latino	19	None	2074	No	Stage 1/2	0	2074	0	2074
+TARGET-40-PASFIW	Male	White	Hispanic or Latino	17	Relapse	77	No	Stage 1/2	1	244	1	77
+TARGET-40-PASJST	Male	Black or African American	Not Hispanic or Latino	8	Relapse	42	No	NA	0	1911	1	42
+TARGET-40-PASNZV	Male	White	Not Hispanic or Latino	16	None	1747	No	NA	0	1747	0	1747
+TARGET-40-PASSLM	Male	White	Not Hispanic or Latino	10	Relapse	1865	Yes	Stage 3/4	0	1865	1	1865
+TARGET-40-PATADB	Male	NA	Hispanic or Latino	14	None	741	Yes	NA	0	741	0	741
+TARGET-40-PATADX	Male	Black or African American	Not Hispanic or Latino	14	None	1754	No	Stage 1/2	0	1754	0	1754
+TARGET-40-PATAWV	Male	White	Not Hispanic or Latino	16	None	1702	No	Stage 3/4	0	1702	0	1702
+TARGET-40-PATEEM	Male	White	Not Hispanic or Latino	16	Relapse	961	No	NA	0	1451	1	961
+TARGET-40-PATEJE	Male	White	Hispanic or Latino	17	Relapse	46	Yes	Stage 1/2	1	323	1	46
+TARGET-40-PATFVE	Male	White	Not Hispanic or Latino	19	Relapse	636	No	Stage 1/2	0	1695	1	636
+TARGET-40-PATJVI	Male	White	Not Hispanic or Latino	16	None	1575	Yes	Stage 3/4	0	1575	0	1575
+TARGET-40-PATKSS	Male	White	Not Hispanic or Latino	13	Relapse	63	No	Stage 1/2	1	758	1	63
+TARGET-40-PATLYM	Male	White	Hispanic or Latino	11	None	1604	No	Stage 3/4	0	1604	0	1604
+TARGET-40-PATMPU	Male	NA	NA	14	Relapse	498	No	Stage 1/2	1	1579	1	498
+TARGET-40-PATNLI	Male	Black or African American	Not Hispanic or Latino	16	None	1112	No	NA	0	1112	0	1112
+TARGET-40-PATPBS	Male	White	Not Hispanic or Latino	15	None	1468	No	Stage 3/4	0	1468	0	1468
+TARGET-40-PAUTWB	Male	White	Not Hispanic or Latino	14	Relapse	598	No	NA	0	687	1	598
+TARGET-40-PAUUML	Male	NA	Hispanic or Latino	6	None	672	No	NA	0	672	0	672
+TARGET-40-PAUVKL	Male	White	Not Hispanic or Latino	12	Death	183	Yes	NA	1	183	NA	NA
+TARGET-40-PAVALD	Male	White	Hispanic or Latino	16	None	551	No	NA	0	551	0	551
+TARGET-40-PAVDTY	Male	White	Not Hispanic or Latino	13	None	369	No	NA	0	369	0	369
+TARGET-40-PAVEMA	Male	White	Hispanic or Latino	8	None	466	No	NA	0	466	0	466
+TARGET-40-PAVLPS	Male	White	Not Hispanic or Latino	16	None	299	No	NA	0	299	0	299
+TARGET-40-PAVMMV	Male	NA	Hispanic or Latino	14	Relapse	171	Yes	NA	1	254	1	171
+TARGET-40-PAVPHS	Male	White	Not Hispanic or Latino	9	None	265	No	NA	0	265	0	265
+TARGET-40-PAVUKR	Male	White	Not Hispanic or Latino	7	None	187	No	NA	0	187	0	187
+TARGET-40-PAVXDP	Male	Asian	Not Hispanic or Latino	18	None	124	No	NA	0	124	0	124
+TARGET-40-0A4HLD	Male 	NA	NA	20	Censored	3946	No	Stage 3/4	0	3946	NA	NA
+TARGET-40-0A4HMC	Male 	White	NA	28	Censored	377	No	Stage 1/2	0	377	NA	NA
+TARGET-40-0A4HX8	Male 	White	NA	29	Censored	3050	No	Stage 3/4	0	1750	NA	NA
+TARGET-40-0A4HXS	Male 	White	NA	23	Censored	2948	No	Stage 1/2	0	2948	NA	NA
+TARGET-40-0A4HY5	Male 	NA	NA	20	Relapse	218	Yes	Stage 1/2	1	290	1	218
+TARGET-40-0A4I0W	Male 	Asian	NA	20	Censored	683	No	NA	0	683	NA	NA
+TARGET-40-0A4I3S	Male 	Black or African American	NA	23	Censored	1844	No	NA	0	1844	NA	NA
+TARGET-40-0A4I4E	Male 	NA	NA	16	NA	NA	Yes	NA	NA	NA	NA	NA
+TARGET-40-0A4I4O	Male 	White	NA	32	Relapse	235	No	Stage 3/4	1	627	1	235
+TARGET-40-0A4I5B	Male 	NA	NA	21	Censored	619	No	Stage 3/4	0	619	NA	NA
+TARGET-40-0A4I5I	Male 	NA	NA	19	Relapse	603	Yes	Stage 3/4	0	925	1	603
+TARGET-40-0A4I6O	Male 	NA	NA	18	Relapse	484	No	NA	1	1906	1	484
+TARGET-40-0A4I8U	Male 	NA	NA	20	Censored	983	No	Stage 1/2	0	983	NA	NA

@@ -1,0 +1,262 @@
+sample_id	Age_at_diagnosis	Gender	OS.Status	OS.Time	Race	Ethnicity	Histological_type	Tumor_depth	Margin_status	Residual_tumor	Tumor_total_necrosis_percent	Local_Recurrence	Metastasis_at_diagNosis
+TCGA-3B-A9HI	68	Male	0	1521	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	Positive	R1	<10% (focal necrosis)	Yes	Yes
+TCGA-3B-A9HJ	68	Male	0	1104	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	NA	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-3B-A9HO	76	Male	0	959	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	Positive	R1	NA	No	No
+TCGA-3B-A9HQ	67	Female	0	2085	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-3B-A9HT	54	Male	0	1665	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-3B-A9HU	54	Female	0	768	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9HX	70	Female	0	1303	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-3B-A9HY	50	Male	0	314	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-3B-A9HZ	67	Male	0	1170	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9I0	33	Male	0	1096	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9I3	63	Male	0	808	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	NA	No	No
+TCGA-DX-A1KX	68	Female	0	2087	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A1KZ	67	Male	0	1372	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A1L2	79	Male	0	2586	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A1L4	61	Male	0	2036	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A23R	56	Female	0	2271	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A240	51	Male	0	1834	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Superficial	NA	R0	NA	NA	NA
+TCGA-DX-A2IZ	61	Male	0	261	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A2J1	54	Male	0	2901	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A2J4	61	Male	0	2408	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A3LT	63	Male	0	1492	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A3LU	60	Male	0	2641	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A3LW	44	Male	0	4150	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A3LY	66	Male	0	1017	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A3M1	79	Male	0	1359	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R2	NA	NA	NA
+TCGA-DX-A3M2	59	Male	0	1055	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A3U5	52	Male	0	969	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A3UB	54	Male	0	2247	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A3UC	38	Female	0	2085	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A3UD	57	Male	0	1534	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A48K	65	Male	0	1399	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A48N	48	Male	0	1073	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A48O	64	Female	0	1605	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A48P	54	Female	0	1400	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A48R	41	Male	0	805	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A48U	57	Male	0	3310	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A48V	79	Male	0	1820	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A6B7	56	Male	0	1143	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A6B9	45	Female	0	1138	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A6BA	53	Female	0	2515	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-DX-A6BB	74	Male	0	1105	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A6BE	78	Male	0	881	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A6BF	82	Female	0	972	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A6BG	51	Male	0	1121	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	<10% (focal necrosis)	Yes	No
+TCGA-DX-A6BH	35	Male	0	821	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A6YR	75	Male	0	1247	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A6YS	61	Male	0	2381	WHITE	NA	Myxofibrosarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A6YT	32	Female	0	2044	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Superficial	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A6YU	50	Female	0	1045	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A6YZ	60	Male	0	2625	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Superficial	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A6Z2	82	Female	0	2830	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A7EL	57	Female	0	2291	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R0	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-A7EM	62	Male	0	1892	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A7EN	54	Female	0	923	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A7EO	21	Female	0	4627	WHITE	HISPANIC OR LATINO	Synovial Sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A7ES	51	Female	0	610	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A7ET	72	Male	0	463	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A7EU	80	Female	0	721	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A8BG	83	Female	0	546	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-DX-A8BK	61	Female	0	1885	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	Extensive Necrosis (>50%)	No	No
+TCGA-DX-A8BL	60	Male	0	1373	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A8BM	61	Male	0	1456	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	Extensive Necrosis (>50%)	No	No
+TCGA-DX-A8BN	79	Female	0	1161	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A8BO	67	Female	0	1240	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	Yes	No
+TCGA-DX-A8BP	86	Male	0	428	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-A8BQ	63	Male	0	1579	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A8BR	64	Female	0	4573	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A8BT	64	Female	0	1230	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-DX-AB2E	61	Male	0	541	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-DX-AB2F	76	Female	0	365	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-AB2G	36	Male	0	478	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-AB2H	81	Female	0	482	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB2L	36	Male	0	2007	WHITE	NA	Myxofibrosarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB2O	79	Female	0	2619	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-AB2Q	65	Female	0	2030	WHITE	HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	Yes
+TCGA-DX-AB2S	54	Female	0	280	WHITE	HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB2T	54	Female	0	2369	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-AB2V	81	Male	0	3156	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Superficial	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB2W	63	Female	0	3238	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-AB2Z	87	Female	0	1092	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-DX-AB32	51	Male	0	3102	WHITE	NA	Myxofibrosarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-AB35	66	Male	0	928	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-DX-AB3B	28	Female	0	1548	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB3C	27	Male	0	2169	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-FX-A2QS	61	Female	0	1495	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	No
+TCGA-FX-A3NJ	55	Male	0	947	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-FX-A3NK	54	Male	0	505	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-FX-A3RE	65	Female	0	660	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	RX	NA	No	No
+TCGA-FX-A3TO	87	Male	0	618	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-FX-A76Y	50	Female	0	471	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-HB-A2OT	78	Female	0	2057	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-HB-A43Z	58	Female	0	1126	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	NA
+TCGA-HS-A5N7	68	Female	0	1013	NA	NA	Leiomyosarcoma (LMS)	Superficial	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-HS-A5N9	59	Female	0	1585	NA	NA	Leiomyosarcoma (LMS)	Deep	Negative	R0	Extensive Necrosis (>50%)	No	No
+TCGA-HS-A5NA	66	Female	0	298	NA	NA	Leiomyosarcoma (LMS)	Deep	NA	RX	0% (no necrosis or no mention of necrosis)	NA	No
+TCGA-IE-A4EH	35	Female	0	819	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-IE-A4EI	68	Female	0	594	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-IE-A4EJ	85	Female	0	98	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	NA	Positive	R1	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-IE-A4EK	54	Male	0	42	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	0% (no necrosis or no mention of necrosis)	NA	No
+TCGA-IE-A6BZ	65	Female	0	605	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-IF-A4AK	83	Female	0	1590	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-IS-A3K7	63	Female	0	5204	WHITE	NA	Leiomyosarcoma (LMS)	NA	NA	R0	NA	No	Yes
+TCGA-IS-A3K8	45	Female	0	4845	WHITE	NA	Leiomyosarcoma (LMS)	NA	NA	R0	NA	NA	NA
+TCGA-IW-A3M4	49	Female	0	2615	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-IW-A3M6	59	Female	0	688	ASIAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	<10% (focal necrosis)	No	No
+TCGA-JV-A5VE	60	Female	0	499	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-K1-A3PN	65	Female	0	3080	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	No	Yes
+TCGA-K1-A3PO	42	Male	0	1622	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-K1-A42W	66	Female	0	1891	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	NA	NA	NA
+TCGA-K1-A42X	62	Female	0	3765	WHITE	NA	Leiomyosarcoma (LMS)	NA	Negative	R0	NA	NA	NA
+TCGA-K1-A6RT	49	Male	0	528	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	Negative	R0	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-K1-A6RV	68	Male	0	158	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	Extensive Necrosis (>50%)	NA	NA
+TCGA-KD-A5QT	69	Female	0	499	NA	NA	Leiomyosarcoma (LMS)	NA	Negative	R0	NA	NA	NA
+TCGA-KF-A41W	71	Female	0	356	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	RX	NA	No	No
+TCGA-LI-A67I	76	Female	0	922	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	RX	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-MB-A5Y8	61	Female	0	773	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	NA	Negative	R0	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-MB-A5Y9	90	Male	0	0	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	NA	Positive	R1	<10% (focal necrosis)	NA	NA
+TCGA-MB-A5YA	63	Male	0	15	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	0% (no necrosis or no mention of necrosis)	No	NA
+TCGA-MB-A8JK	50	Male	0	661	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	RX	<10% (focal necrosis)	No	No
+TCGA-MB-A8JL	53	Female	0	600	WHITE	NA	Leiomyosarcoma (LMS)	Superficial	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-MJ-A68H	58	Female	0	456	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-MJ-A68J	55	Female	0	547	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R1	NA	NA	NA
+TCGA-MJ-A850	29	Male	0	681	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	NA	RX	<10% (focal necrosis)	NA	No
+TCGA-MO-A47P	38	Female	0	352	ASIAN	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	NA	R0	NA	NA	NA
+TCGA-PC-A5DK	63	Male	0	3740	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	NA	NA	NA
+TCGA-PT-A8TR	57	Female	0	813	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QC-A6FX	69	Male	0	637	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-QC-A7B5	75	Male	0	398	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	Positive	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QC-AA9N	53	Female	0	537	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	Negative	RX	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-QQ-A5V2	42	Male	0	56	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	NA	R1	0% (no necrosis or no mention of necrosis)	NA	NA
+TCGA-QQ-A5VC	64	Female	0	1092	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A5VD	52	Male	0	1129	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A8VB	68	Female	0	5723	WHITE	NA	Malignant Peripheral Nerve Sheath Tumors (MPNST)	NA	Negative	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A8VD	57	Male	0	3964	WHITE	NOT HISPANIC OR LATINO	Desmoid Tumor	NA	Positive	RX	0% (no necrosis or no mention of necrosis)	Yes	NA
+TCGA-QQ-A8VF	70	Male	0	3406	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	RX	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-RN-A68Q	63	Female	0	22	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	NA	NA	RX	<10% (focal necrosis)	NA	NA
+TCGA-RN-AAAQ	52	Male	0	510	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	NA	NA	Extensive Necrosis (>50%)	NA	No
+TCGA-SG-A6Z4	48	Male	0	576	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R1	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-SG-A849	78	Male	0	533	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Superficial	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-SI-A71P	50	Male	0	771	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	NA	RX	Extensive Necrosis (>50%)	No	No
+TCGA-SI-A71Q	34	Female	0	996	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-SI-AA8C	21	Female	0	597	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	Positive	R1	Extensive Necrosis (>50%)	No	Yes
+TCGA-UE-A6QT	51	Female	0	402	ASIAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-UE-A6QU	90	Female	0	0	ASIAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-VT-A80G	66	Male	0	326	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	Yes
+TCGA-VT-A80J	49	Female	0	796	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-VT-AB3D	72	Male	0	379	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-WK-A8XS	59	Female	0	2579	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-X2-A95T	50	Female	0	1927	WHITE	NA	Leiomyosarcoma (LMS)	Superficial	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A7WA	90	Female	0	0	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A7WC	75	Male	0	1379	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-X6-A7WD	64	Female	0	938	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A8C2	56	Male	0	1070	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-X6-A8C3	60	Female	0	583	ASIAN	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A8C5	64	Female	0	1547	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-X6-A8C7	25	Female	0	896	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-X9-A971	53	Female	0	831	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	No	No
+TCGA-X9-A973	55	Male	0	1108	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-Z4-A8JB	25	Female	0	133	WHITE	NOT HISPANIC OR LATINO	Desmoid Tumor	Deep	Negative	R0	NA	NA	NA
+TCGA-Z4-A9VC	37	Male	0	407	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-Z4-AAPF	36	Female	0	485	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Superficial	Negative	R0	NA	NA	NA
+TCGA-Z4-AAPG	64	Female	0	486	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-3B-A9HL	67	Male	1	599	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	Positive	R1	<10% (focal necrosis)	Yes	Yes
+TCGA-3B-A9HP	58	Female	1	1627	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9HR	38	Female	1	2694	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9HS	60	Male	1	1366	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-3B-A9HV	48	Female	1	437	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	RX	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3B-A9I1	57	Female	1	567	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	RX	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-3R-A8YX	67	Male	1	17	NA	NA	Dedifferentiated liposarcoma	NA	Positive	R2	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-A1KU	82	Male	1	427	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R2	NA	NA	NA
+TCGA-DX-A1KW	68	Male	1	995	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A1KY	67	Male	1	391	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A1L0	59	Male	1	564	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A1L1	61	Male	1	1649	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A1L3	61	Female	1	1020	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A23T	41	Female	1	160	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A23U	82	Male	1	2324	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A23V	58	Female	1	2034	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A23Y	80	Male	1	191	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A23Z	75	Male	1	846	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A2J0	61	Male	1	295	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A3LS	78	Female	1	275	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A3U6	64	Female	1	1088	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	NA	NA	NA
+TCGA-DX-A3U7	68	Male	1	1552	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	Negative	R0	NA	NA	NA
+TCGA-DX-A3U8	43	Male	1	138	NA	NA	Leiomyosarcoma (LMS)	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A3U9	85	Male	1	456	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R1	NA	NA	NA
+TCGA-DX-A3UA	48	Female	1	325	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A3UE	67	Female	1	1061	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A3UF	66	Female	1	2599	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	NA	NA	NA
+TCGA-DX-A48J	45	Male	1	296	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A48L	50	Female	1	738	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	R0	NA	NA	NA
+TCGA-DX-A6B8	81	Male	1	485	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-DX-A6BK	85	Female	1	492	WHITE	NA	Dedifferentiated liposarcoma	Deep	Positive	R1	<10% (focal necrosis)	No	No
+TCGA-DX-A6YQ	86	Female	1	93	NA	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A6YV	74	Male	1	1536	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-DX-A6YX	68	Female	1	513	NA	NA	Myxofibrosarcoma	Superficial	Negative	R0	<10% (focal necrosis)	No	Yes
+TCGA-DX-A6Z0	79	Female	1	1953	WHITE	NA	Myxofibrosarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A7EF	88	Female	1	570	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-DX-A7EI	78	Female	1	1049	WHITE	NA	Dedifferentiated liposarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-DX-A7EQ	73	Male	1	897	WHITE	NA	Synovial Sarcoma	Deep	Negative	R0	<10% (focal necrosis)	No	Yes
+TCGA-DX-A7ER	69	Male	1	1466	WHITE	NA	Synovial Sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A8BH	87	Male	1	439	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R0	<10% (focal necrosis)	No	No
+TCGA-DX-A8BJ	77	Male	1	284	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-A8BS	69	Female	1	850	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-A8BU	59	Male	1	1116	WHITE	NA	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-DX-A8BV	58	Male	1	1845	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	Extensive Necrosis (>50%)	Yes	Yes
+TCGA-DX-A8BX	53	Male	1	591	WHITE	HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	Extensive Necrosis (>50%)	Yes	Yes
+TCGA-DX-A8BZ	79	Female	1	200	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R0	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-AATS	73	Male	1	35	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	<10% (focal necrosis)	No	No
+TCGA-DX-AB2J	72	Female	1	1235	WHITE	NA	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-DX-AB2P	80	Male	1	367	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-DX-AB2X	73	Female	1	404	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-DX-AB30	54	Female	1	695	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-DX-AB36	87	Male	1	1168	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB37	73	Female	1	2575	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-DX-AB3A	80	Male	1	978	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	Yes	Yes
+TCGA-FX-A48G	57	Female	1	605	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	NA	RX	0% (no necrosis or no mention of necrosis)	No	NA
+TCGA-FX-A8OO	31	Female	1	245	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-HB-A3L4	47	Female	1	1061	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	NA	NA	Yes
+TCGA-HB-A3YV	76	Male	1	139	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-HB-A5W3	59	Female	1	384	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-HS-A5N8	70	Female	1	22	NA	NA	Leiomyosarcoma (LMS)	Deep	NA	R2	NA	NA	NA
+TCGA-IE-A3OV	43	Male	1	2448	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	Yes	Yes
+TCGA-IF-A3RQ	70	Female	1	1129	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	<10% (focal necrosis)	Yes	No
+TCGA-IF-A4AJ	81	Male	1	767	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-IS-A3K6	55	Female	1	858	WHITE	NA	Leiomyosarcoma (LMS)	NA	NA	R2	NA	NA	Yes
+TCGA-IS-A3KA	73	Female	1	413	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	R0	NA	Yes	Yes
+TCGA-IW-A3M5	76	Female	1	180	WHITE	NA	Leiomyosarcoma (LMS)	NA	Negative	R0	<10% (focal necrosis)	No	Yes
+TCGA-JV-A5VF	70	Female	1	32	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R2	"Moderate Necrosis (>=10, <50%)"	No	Yes
+TCGA-JV-A75J	44	Female	1	119	WHITE	HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R2	Extensive Necrosis (>50%)	No	Yes
+TCGA-K1-A6RU	67	Female	1	711	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	NA	NA
+TCGA-KD-A5QS	56	Female	1	1941	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	RX	Extensive Necrosis (>50%)	No	Yes
+TCGA-KD-A5QU	41	Female	1	1073	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R0	"Moderate Necrosis (>=10, <50%)"	NA	NA
+TCGA-LI-A9QH	73	Female	1	540	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R2	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-MO-A47R	76	Female	1	318	ASIAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	R0	NA	NA	NA
+TCGA-N1-A6IA	41	Female	1	224	BLACK OR AFRICAN AMERICAN	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Superficial	NA	RX	NA	NA	NA
+TCGA-PC-A5DL	68	Male	1	1142	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	RX	NA	NA	NA
+TCGA-PC-A5DM	73	Male	1	193	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Positive	R1	NA	NA	NA
+TCGA-PC-A5DN	78	Female	1	1175	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	R1	NA	NA	NA
+TCGA-PC-A5DO	59	Female	1	2464	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	R1	NA	NA	NA
+TCGA-PC-A5DP	72	Female	1	550	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	NA	R1	NA	NA	NA
+TCGA-QQ-A5V9	77	Male	1	1424	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	NA	Negative	R0	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A5VA	61	Female	1	550	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	NA	Negative	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A5VB	54	Female	1	1478	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Positive	R1	<10% (focal necrosis)	Yes	Yes
+TCGA-QQ-A8VG	53	Male	1	1970	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	Negative	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-QQ-A8VH	32	Female	1	320	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	NA	Positive	RX	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-SG-A6Z7	44	Female	1	118	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	NA	RX	0% (no necrosis or no mention of necrosis)	No	No
+TCGA-SI-A71O	29	Male	1	694	WHITE	NOT HISPANIC OR LATINO	Malignant Peripheral Nerve Sheath Tumors (MPNST)	Deep	Positive	RX	0% (no necrosis or no mention of necrosis)	No	Yes
+TCGA-SI-AA8B	80	Female	1	262	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	<10% (focal necrosis)	No	No
+TCGA-WK-A8XO	66	Female	1	363	WHITE	NOT HISPANIC OR LATINO	Dedifferentiated liposarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	Yes	No
+TCGA-WK-A8XQ	57	Male	1	146	WHITE	NA	Dedifferentiated liposarcoma	Deep	Positive	R2	"Moderate Necrosis (>=10, <50%)"	Yes	No
+TCGA-WK-A8XT	41	Female	1	1262	WHITE	NOT HISPANIC OR LATINO	Synovial Sarcoma	Deep	Negative	R0	0% (no necrosis or no mention of necrosis)	Yes	Yes
+TCGA-WK-A8XX	70	Male	1	1164	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Negative	R0	<10% (focal necrosis)	Yes	Yes
+TCGA-WK-A8XY	54	Female	1	1991	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	Extensive Necrosis (>50%)	Yes	Yes
+TCGA-WK-A8XZ	56	Female	1	1722	WHITE	NA	Leiomyosarcoma (LMS)	Deep	Negative	R0	"Moderate Necrosis (>=10, <50%)"	Yes	Yes
+TCGA-WK-A8Y0	50	Female	1	688	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Negative	R0	<10% (focal necrosis)	Yes	Yes
+TCGA-WP-A9GB	59	Female	1	261	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	NA	Negative	RX	<10% (focal necrosis)	NA	NA
+TCGA-X6-A7W8	90	Male	1	24	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A7WB	59	Female	1	550	WHITE	NOT HISPANIC OR LATINO	Leiomyosarcoma (LMS)	Deep	Positive	R1	<10% (focal necrosis)	No	No
+TCGA-X6-A8C4	71	Female	1	628	WHITE	NOT HISPANIC OR LATINO	Undifferentiated pleomorphic sarcoma	Deep	Positive	R1	"Moderate Necrosis (>=10, <50%)"	No	No
+TCGA-X6-A8C6	55	Male	1	1067	WHITE	NOT HISPANIC OR LATINO	Myxofibrosarcoma	Deep	Positive	R1	0% (no necrosis or no mention of necrosis)	No	No
